@@ -74,7 +74,7 @@ nav#menu li{
     transition: background-color 1s;/*a demosra de mudansa de cor*/
 }
 nav#menu li:hover{
-    background-color: #606060;
+    background-color: #606060;/*cor do fundo é mudada aqui*/
 }
 nav#menu h1{
     display: none;
