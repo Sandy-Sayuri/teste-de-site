@@ -1,7 +1,20 @@
+body{
+    background-color: hsl(165,81%,93%);
+    color: rgba(0,0,0,1);
+}
 p{
     text-align: justify;
     text-indent: 30px;
 }
 h2{
     text-align: left;
+}
+/*formatação da imagem com legenda*/
+figure.quadro-homem-mulher{   
+    border:8px solid rgba(173, 236, 233, 0.26);
+    box-shadow: 1px 1px 4px black;
+}
+figure.quadro-homem-mulher img{
+    width: 100%; ;
+    height: 100%;
 }
