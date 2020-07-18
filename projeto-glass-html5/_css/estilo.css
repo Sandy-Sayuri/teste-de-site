@@ -34,3 +34,14 @@ figure.quadro-homem-mulher figcaption{
 figure.quadro-homem-mulher:hover figcaption{
     opacity: 1;
 }
+/*menu*/
+nav#menu ul{
+    list-style: none;
+    text-transform: uppercase;
+}
+nav#menu li{
+    display: inline-block;
+    background-color: #dddddd;
+    padding: 10px;
+    margin: 20px;
+}
