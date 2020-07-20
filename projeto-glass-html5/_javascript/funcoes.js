@@ -15,7 +15,8 @@ function mudarfoto(foto){
     else if(foto==5){
         document.getElementById('icone').src="_imagens/contato.png"
     }
-    else if(6){
+    else if(foto==6){
         document.getElementById("icone").src="_imagens/glass-oculos-preto-peq.png"
     }
+   
 }
